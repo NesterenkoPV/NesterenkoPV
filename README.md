@@ -1,3 +1,4 @@
+![Header](QAcover_git_PNesterenko.jpg)
 ## Hi there 👋
 
 <!--
