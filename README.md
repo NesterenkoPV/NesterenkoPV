@@ -6,9 +6,9 @@ My name is Pavel, and I'm a QA Engineer. Here, I want to share some web and mobi
 
 ### About me:
 
-* 🔳 I’m currently open to job opportunities as QA Engineer.
-* 🔳 Finished Manual QA Engineer Professional Training Course.
-* 🔳 Сame to QA from TV media-planning.
+ 🔳 I’m currently open to job opportunities as QA Engineer.
+ 🔳 Finished Manual QA Engineer Professional Training Course.
+ 🔳 Сame to QA from TV media-planning.
 
 ### Tools:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; text-decoration: none;">
