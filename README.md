@@ -1,4 +1,4 @@
-**![Header](QAcover_git_PNesterenko.jpg)
+![Header](QAcover_git_PNesterenko.jpg)
 
 ## Hi there 👋
 
