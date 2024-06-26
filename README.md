@@ -19,12 +19,14 @@ My name is Pavel, and I'm a QA Engineer. Here, I want to share some web and mobi
 <a href="https://www.charlesproxy.com/">
   <img src="Icons/Charles.png" alt="Charles" style="width: 45px; height: 45px; margin: 10px;"></a>
 <a href="[https://developer.chrome.com/docs/devtools/](https://www.cygwin.com/)">
-  <img src="Icons/Cygwin.svg" alt="Cygwin" style="width: 40px; height: 40px; margin: 20px;"></a>
-
+  <img src="Icons/Cygwin.png" alt="Cygwin" style="width: 40px; height: 40px; margin: 20px;"></a>
+<a href="https://www.figma.com/">
+  <img src="Icons/Figma.png" alt="Figma" style="width: 50px; height: 40px; margin: 10px;"></a>
+ <a href="https://www.jetbrains.com/youtrack/">
+   <img src="Icons/YouTrack_icon.png" alt="YouTrack" style="width: 40px; height: 40px; margin: 10px;"></a>
+   <a href="https://developer.android.com/studio">
+     <img src="Icons/Android Studio.png" alt="Android Studio" style="width: 40px; height: 40px; margin: 20px;"></a>
     
-    
-        
-
 
 ### My Study Cases:
 
