@@ -8,7 +8,7 @@ My name is Pavel, and I'm a QA Engineer. Here, I want to share some web and mobi
 
  🔳 I’m currently open to job opportunities as QA Engineer. <br/>
  🔳 Finished Manual QA Engineer Professional Training Course. <br/>
- 🔳 Сame to QA from TV media-planning. <br/>
+ 🔳 Сame to QA from media-planning. <br/>
 
 
 ### Tools:
@@ -30,8 +30,8 @@ My name is Pavel, and I'm a QA Engineer. Here, I want to share some web and mobi
     
 
 ### My Study Cases:
-<a href="https://github.com/NesterenkoPV/Project_1_Yandex.Maps-Web-Application-.git">Yandex-Maps Web-Application
+1️⃣ <a href="https://github.com/NesterenkoPV/Project_1_Yandex.Maps-Web-Application-.git"> Тестирование Web-приложения "Яндекс. Маршруты". <br/>
 
   
-### Follow me
-**
+### Follow me:
+
