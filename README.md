@@ -31,9 +31,4 @@ My name is Pavel, and I'm a QA Engineer. Here, I want to share some web and mobi
 ### My Study Cases:
 
 
-
-### My Study Cases:
-
-
-
 ### Follow me
