@@ -10,4 +10,16 @@ My name is Pavel, and I'm a QA Engineer. Here, I want to share some web and mobi
 * 🔳 Finished Manual QA Engineer Professional Training Course.
 * 🔳 Сame to QA from TV media-planning.
 
-### Tools
+### Tools:
+
+
+
+### My Study Cases:
+
+
+
+### My Study Cases:
+
+
+
+### Follow me
