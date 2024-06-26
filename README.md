@@ -11,7 +11,19 @@ My name is Pavel, and I'm a QA Engineer. Here, I want to share some web and mobi
 * 🔳 Сame to QA from TV media-planning.
 
 ### Tools:
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; text-decoration: none;">
+<a href="https://developer.chrome.com/docs/devtools/">
+  <img src="Icons/DevTools.png" alt="Devtools" style="width: 40px; height: 40px; margin: 20px;"></a>
+<a href="https://www.postman.com/">  
+    <img src="Icons/Postman.png" alt="Postman" style="width: 43px; height: 43px; margin: 10px;"></a>
+<a href="https://www.charlesproxy.com/">
+  <img src="Icons/Charles.png" alt="Charles" style="width: 45px; height: 45px; margin: 10px;"></a>
+<a href="[https://developer.chrome.com/docs/devtools/](https://www.cygwin.com/)">
+  <img src="Icons/Cygwin.svg" alt="Cygwin" style="width: 40px; height: 40px; margin: 20px;"></a>
 
+    
+    
+        
 
 
 ### My Study Cases:
