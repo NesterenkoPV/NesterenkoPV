@@ -1,14 +1,15 @@
-![Header](QAcover_git_PNesterenko.jpg)
+**![Header](QAcover_git_PNesterenko.jpg)
 
 ## Hi there 👋
 
 My name is Pavel, and I'm a QA Engineer. Here, I want to share some web and mobile testing portfolio items gained during my studies.
 
 ### About me:
-
+<!-- ABOUT-ME : START -->
  🔳 I’m currently open to job opportunities as QA Engineer.
  🔳 Finished Manual QA Engineer Professional Training Course.
  🔳 Сame to QA from TV media-planning.
+ <!-- ABOUT-ME : END -->
 
 ### Tools:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; text-decoration: none;">
@@ -33,3 +34,4 @@ My name is Pavel, and I'm a QA Engineer. Here, I want to share some web and mobi
 
   
 ### Follow me
+**
