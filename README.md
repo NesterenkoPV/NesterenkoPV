@@ -30,7 +30,7 @@ My name is Pavel, and I'm a QA Engineer. Here, I want to share some web and mobi
     
 
 ### My Study Cases:
-* <a href="https://github.com/NesterenkoPV/Project_1_Yandex.Maps-Web-Application-.git"> Тестирование Web-приложения "Яндекс. Маршруты". <br/>
+* <a href="https://github.com/NesterenkoPV/Project_1_Yandex.Maps-Web-Application-.git"> Тестирование web-приложения "Яндекс. Маршруты". <br/>
 
   
 ### Follow me:
