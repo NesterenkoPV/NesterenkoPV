@@ -7,7 +7,7 @@ My name is Pavel, and I'm a QA Engineer. Here, I want to share some web and mobi
 ### About me:
 
  🔳 I’m currently open to job opportunities as QA Engineer. <br/>
- 🔳 Finished Manual QA Engineer Professional Training Course. <br/>
+ 🔳 Finished <a href="https://drive.google.com/file/d/1O6mqSHNj2GG0zkBUXttuQVP5rfqs7zci/view?usp=drive_link"> Manual QA Engineer Professional Training Course. <br/>
  🔳 Сame to QA from media-planning. <br/>
 
 
