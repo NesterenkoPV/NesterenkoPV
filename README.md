@@ -25,8 +25,10 @@ My name is Pavel, and I'm a QA Engineer. Here, I want to share some web and mobi
   <img src="Icons/Figma.png" alt="Figma" style="width: 50px; height: 40px; margin: 10px;"></a>
  <a href="https://www.jetbrains.com/youtrack/">
    <img src="Icons/YouTrack_icon.png" alt="YouTrack" style="width: 40px; height: 40px; margin: 10px;"></a>
-   <a href="https://developer.android.com/studio">
-     <img src="Icons/Android Studio.png" alt="Android Studio" style="width: 40px; height: 40px; margin: 20px;"></a>
+ <a href="https://developer.android.com/studio">
+   <img src="Icons/Android Studio.png" alt="Android Studio" style="width: 40px; height: 40px; margin: 20px;"></a>
+ <a href="https://swagger.io/">
+   <img src="Icons/Swagger.png" alt="Swagger" style="width: 40px; height: 40px; margin: 20px;"></a>
     
 
 ### My Study Cases:
