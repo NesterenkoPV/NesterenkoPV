@@ -35,5 +35,5 @@ My name is Pavel, and I'm a QA Engineer. Here, I want to share some web and mobi
 * <a href="https://github.com/NesterenkoPV/Project_3_Yandex.Counter-Web-Application-.git"> Тестирование API web-приложения "Яндекс. Прилавок". <br/>
 
   
-### Follow me:
+### Contact me:
 
